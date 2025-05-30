@@ -1,36 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![{5930C8D1-3DF2-4486-8DF3-2F80D3F248CB}](https://github.com/user-attachments/assets/b3c40eb1-5036-42f7-b315-6278b122b4d2)
+![{F71DC4B2-E873-430D-8862-67BC74F2659A}](https://github.com/user-attachments/assets/fdb11694-b9fb-454d-a930-ec2b5a359ff9)
+![{23F8FEC6-956B-4B3D-B9B5-EBBF1248A619}](https://github.com/user-attachments/assets/b9a174e3-a81d-4bc0-8fb4-3ec1865e2c91)
+![{D7308CF5-4551-4A5D-886B-E81E483CA777}](https://github.com/user-attachments/assets/b7f59f0e-9bf8-4f8f-b8e8-8b5f8bea9c52)
+![{58936F22-6D1F-4F83-BFFB-741929E9BB32}](https://github.com/user-attachments/assets/aacf78da-c6f4-4ab9-81ae-fd2cb7c1609e)
+![{C085D2EF-A19A-4B6D-8494-8F2D9EB2FC76}](https://github.com/user-attachments/assets/aff3c713-8c5f-4773-ad78-0b11db3e9e2d)
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
